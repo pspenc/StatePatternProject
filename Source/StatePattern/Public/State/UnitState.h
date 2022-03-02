@@ -52,6 +52,8 @@ public:
 	UFUNCTION(BlueprintPure)
 	bool HasQueuedRemoval() const {return bQueueRemoval;}
 	
+
+	
 	
 protected:
 
